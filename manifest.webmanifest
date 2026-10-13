@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "胡鑫洋 · KIRAHOOK 个人作品档案",
+  "short_name": "KIRAHOOK",
+  "description": "个人 CV、交互设计、UI/UX、产品与视觉作品档案",
+  "lang": "zh-CN",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8e5e1",
+  "theme_color": "#e8e5e1",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

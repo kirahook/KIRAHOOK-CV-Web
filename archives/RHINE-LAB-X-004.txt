@@ -1,0 +1,17 @@
+﻿KIRAHOOK · PERSONAL PORTFOLIO
+FILE X-004 / 残响回授
+RESONANT FEEDBACK
+
+设计领域：交互游戏设计
+时间：原始作品集
+创作者：胡鑫洋 / KIRAHOOK
+访问范围：PROJECT ARCHIVE
+
+科幻主界面、世界观视觉与界面控件设计。
+
+设计说明
+1. 展示图来自用户提供的作品集原始图版。
+2. 选择“作品图版”查看全幅页面；点击图版可放大和翻页。
+
+原始文档：documents/hu-xinyang-portfolio.pdf
+来源：胡鑫洋提供的 CV 与作品集。

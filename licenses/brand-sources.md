@@ -19,4 +19,18 @@ Verified 2026-10-14. Logos identify the organizations listed in the CV; trademar
 
 Acceptance/award dates were provided directly by Hu Xinyang on 2026-10-14, in the requested order: KTK 2024; Milan/NCDA 2024 / 2025–2026; Design+ 2026; MUSE 2024; QoderWork 2026; HACK 13 2025; IEEE CSCWD 2025; ISCID 2025; ACM VINCI 2026; AIART 2026; CCAC 2025–2026; fifth Art & Technology exhibition 2024.
 
-CCF grades, presentation types and conference editions are transcribed from the supplied CV and remain visible alongside dates. No CORE grade has been added without a source. The supplied personal acceptance dates are not inferred from conference/event calendars.
+CCF grades, presentation types and conference editions are transcribed from the supplied CV and remain visible alongside dates. CORE grades were subsequently verified against the official ICORE2026 export below. The supplied personal acceptance dates are not inferred from conference/event calendars.
+
+## Verified CORE / ICORE conference grades
+
+Source: [official ICORE2026 CSV export](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=ICORE2026&do=Export), retrieved 2026-10-14. The UI explicitly labels the ranking edition as 2026; acceptance dates remain the dates provided by Hu Xinyang.
+
+| Venue in official directory | Acronym | ICORE2026 grade | Official record ID |
+| --- | --- | --- | --- |
+| ACM SIG International Conference on Computer Graphics and Interactive Techniques | SIGGRAPH | A* | 38 |
+| IEEE International Conference on Multimedia and Expo | ICME | A | 664 |
+| IEEE Visualization | IEEE VIS | A | 759 |
+| International Conference on Computer Supported Cooperative Work in Design | CSCWD | C | 962 |
+| Visual Information Communication and Interaction | VINCI | C | 1853 |
+
+For SIGGRAPH DAC, AIART Gallery and VISAP exhibition entries, the UI says “主会” because the rank belongs to the parent conference. Exhibition participation does not imply acceptance as a main-conference research paper. No rank is assigned to other entries where no matching official record was verified. CCF grades remain the supplied CV's metadata.

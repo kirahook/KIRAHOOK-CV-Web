@@ -1,6 +1,6 @@
 {
-  "version": "52afe93be3ec2eb7",
-  "bytes": 144480656,
+  "version": "414213feb8c5ea85",
+  "bytes": 144843768,
   "files": [
     "archives/RHINE-LAB-X-001.txt",
     "archives/RHINE-LAB-X-002.txt",
@@ -67,6 +67,7 @@
     "brands/tsinghua-emblem.png",
     "brands/vinci-symbol.svg",
     "brands/x-lab.svg",
+    "conferences/cdigra-2026-program.pdf",
     "documents/hu-xinyang-cv.pdf",
     "documents/hu-xinyang-portfolio.pdf",
     "exhibitions/art-science-2024-reference.jpg",

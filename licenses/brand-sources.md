@@ -34,3 +34,18 @@ Source: [official ICORE2026 CSV export](https://portal.core.edu.au/conf-ranks/?s
 | Visual Information Communication and Interaction | VINCI | C | 1853 |
 
 For SIGGRAPH DAC, AIART Gallery and VISAP exhibition entries, the UI says “主会” because the rank belongs to the parent conference. Exhibition participation does not imply acceptance as a main-conference research paper. No rank is assigned to other entries where no matching official record was verified. CCF grades remain the supplied CV's metadata.
+
+## Schools and exhibition identities (2026-10-15)
+
+- Tsinghua University: official [emblem specification](https://vi.tsinghua.edu.cn/gk/xxbz/xh.htm), [original image](https://vi.tsinghua.edu.cn/__local/8/1C/21/2F02A66E31BF084FE340463BB47_B9A95F73_185BC.jpg). White margin trimmed; original purple seal retained in `brands/tsinghua-emblem.png`.
+- Beijing Institute of Fashion Technology: official [school identity attachment](https://www.bift.edu.cn/docs/2019-12/20191213105753262678.pdf). First emblem on page 1 rendered and extracted without redrawing in `brands/bift-emblem.png`.
+- SIGGRAPH: official [2026 conference header](https://s2026.siggraph.org/wp-content/themes/siggraph2026/assets/images/2026-siggraph-logo-brand.png), unchanged in `brands/siggraph-2026.png`. Used as conference identity, not as evidence of a specific personal exhibition venue. [Brand resources](https://s2026.siggraph.org/for-the-press/).
+- IEEE ICME: official IEEE CASS [ICME 2026 call for papers](https://ieee-cas.org/files/ieeecass/2025-12/icme-2026-cfp.pdf). The mascot and ICME 2026 graphic in the top-right header is rendered and extracted in `brands/icme-2026-banner.png`.
+- IEEE VIS: [official 2026 SVG](https://ieeevis.org/year/2026/assets/vis2026_logo.svg), unchanged in `brands/ieee-vis-2026.svg`.
+- China Computer Federation: [official Technical Committee website logo](https://tc.ccf.org.cn/images/logo.png), unchanged in `brands/ccf-logo.png`.
+- China Science and Technology Museum: official website sharing [graphic](https://statics.cdstm.cn/cstm/img/logo.png). Transparent margin trimmed in `brands/cstm-logo.png`.
+- 2024 exhibition reference photograph: [official Academy of Arts & Design report](https://www.enad.tsinghua.edu.cn/info/1374/1711.htm), [original photograph](https://www.enad.tsinghua.edu.cn/__local/0/05/BF/94C2EB3007876F7A483F64989CF_453C966B_3E48F3.jpg), resized in `exhibitions/art-science-2024-reference.jpg`. Caption explicitly identifies it as an official reference photograph. It is not represented as Hu Xinyang's work or personal on-site photograph. The official 2024 report calls the event the sixth Art and Science International Exhibition; the supplied CV calls the entry the fifth Art & Technology exhibition. The CV title is preserved pending the user's clarification.
+
+The new “筑梦星球 创耀寰宇” science art exhibition entry is supplied directly by Hu Xinyang. No matching official poster was verified. Its institution logo is used; The user supplied the participation year as 2026; artwork information remains unfilled. This entry is not conflated with the similarly named youth creative-work solicitation or summer camp.
+
+CONTACT values come from the supplied CV and the user's GitHub identity. On 2026-10-15 the user requested name-only Xiaohongshu, Douyin and GGAC entries and supplied the Google Scholar URL https://scholar.google.com/citations?user=CAfvYaIAAAAJ&hl=zh-CN. No unrelated namesakes are linked.

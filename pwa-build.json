@@ -1,10 +1,10 @@
 {
-  "version": "9d297b92a1ccc1be",
-  "bytes": 155813059,
+  "version": "efdabf5377b465d4",
+  "bytes": 155807685,
   "coreFiles": [
     "assets/archive-cassette.dda42b9b3b471d11.glb",
-    "assets/index-BydwEPWr.css",
-    "assets/index-T-_cQDfS.js",
+    "assets/index-CHzxiKdS.css",
+    "assets/index-dZODU-vA.js",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",
     "favicon.svg",
     "fonts/misans-webfont-4.3.1/bold/0.woff2",
@@ -53,7 +53,7 @@
     "manifest.webmanifest",
     "portfolio/page-03.jpg"
   ],
-  "coreBytes": 9732763,
+  "coreBytes": 9727389,
   "files": [
     "archives/RHINE-LAB-X-001.txt",
     "archives/RHINE-LAB-X-002.txt",
@@ -80,8 +80,8 @@
     "assets/archive-assembly.d411170676f55a32.glb",
     "assets/archive-cassette.dda42b9b3b471d11.glb",
     "assets/boot-lettering-notice.txt",
-    "assets/index-BydwEPWr.css",
-    "assets/index-T-_cQDfS.js",
+    "assets/index-CHzxiKdS.css",
+    "assets/index-dZODU-vA.js",
     "assets/pdf-CfhDiWmk.js",
     "assets/pdf.worker-sdBKBKVr.js",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",

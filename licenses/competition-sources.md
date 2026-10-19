@@ -20,3 +20,16 @@ Checked 2026-10-15. Personal results and acceptance/award years come from the su
 | QODERWORK | [Tianchi competition entry](https://tianchi.aliyun.com/competition/entrance/532492), [QoderWork](https://qoder.com/qoderwork), [Aliyun community announcement linking the same event](https://developer.aliyun.com/article/1741102) | Official [Qoder identity](https://img.alicdn.com/imgextra/i2/O1CN01ujLij0k3MQH2V5OS_!!6000000000850-2-tps-1232-344.png), `brands/qoder-logo.png`. Precise edition judging criteria remain unspecified. |
 
 Marks and source visuals belong to the respective organizations/artists. They identify referenced events and are not covered by the application's MIT license. No winner seal is fabricated, and no unverified personal award level is added.
+
+## Additional verification · 2026-10-19
+
+All twenty records now have a short introduction, separate from the personal result. Award tiers and institutional rankings are not conflated. Unverified edition-specific judging rules remain marked as pending.
+
+| Entry | Sources and asset provenance |
+| --- | --- |
+| Design Values Award | User confirmed Design Society × V&A. [Official award](https://awards.designsociety.cn/en), [2025 first-edition awards](https://awards.designsociety.cn/en/index/award-setting), [jurors](https://awards.designsociety.cn/en/index/jurors). `brands/dva-design-values.png` is the unchanged **organizer** logo from the [official asset](https://awards.designsociety.cn/modulesassets/comofrontend/assets/css/img/logo-red@2x.png?v=20250409), captioned as Design Society, not an award badge. |
+| UX Design Awards | [Official judging procedure](https://ux-design-awards.com/jury/judging-criteria). `brands/ux-design-awards.svg` preserves the original inline logo SVG from the [official downloads page](https://ux-design-awards.com/downloads). Current procedure is explicitly distinct from the personal 2024 record. |
+| CMIT | [Official site](https://www.cmit.cn/), [2025 notice](https://www.cmit.cn/html/tongzhigonggao/show-144-45738-1.html), including CAAI organizer, 2023 ranking inclusion, selection stages and award levels. Personal entry remains the 2024 twelfth edition; 2025 rules are labeled as reference. `brands/cmit-logo.png` is the unchanged [current official mark](https://static.cmit.cn/statics2026/images/logo.png). |
+| 圆点设计奖 / YD Design Award | User suggested the 2023 edition. [2023 announcement repost](https://www.shejijingsai.com/2023/08/1001751.html) identifies five design categories and published award tiers. `brands/yd-design-2023.jpg` is the unchanged [publicity image](https://img.shejijingsai.com/wp-content/uploads/2023/08/17940561bc95691b75567b3b9a051a3f.jpeg) from that repost, **not a verified official-site download**. Both image caption and source link identify the repost. Independent official site, juror list and university classification remain unverified. Personal award year stays 2024, as previously supplied. |
+| C2A | [Official introduction](https://www.c2award.com/about/) supplements the existing site and jury links. |
+| CCAC | [CCF 2025 announcement](https://www.ccf.org.cn/Media_list/TC/2025-07-18/846580.shtml) supplements the organizer source. This is the computational art event, not the similarly abbreviated affective computing conference. |

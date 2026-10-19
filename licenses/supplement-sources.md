@@ -6,7 +6,7 @@ Updated 2026-10-16. Personal records are transcribed from the user's supplementa
 - UX Design Awards: [official website](https://ux-design-awards.com/), [jury](https://ux-design-awards.com/jury), [IDZ organizer mark](https://ux-design-awards.com/assets/img/idz.svg). The organizer identity is captioned as such. Award outcome is from the personal CV.
 - C2A: [official website](https://www.c2award.com/), [jury](https://www.c2award.com/jury/), [official mark](https://www.c2award.com/wp-content/uploads/2023/09/logo.png). Organizer Farmani Group is stated by the official site; personal winner record is from the CV.
 - CCAC: existing official CCF identity and organizer source are reused; the new competition record is separate from the existing exhibition record.
-- Design Value Award, 圆点设计奖 and CMIT: names and outcomes are preserved from the supplied CV. Official identities, websites and organizers remain unverified and are explicitly left pending; no substitute identity is used.
+- Design Values Award: the user confirmed Design Society × V&A; official identity and rules were added on 2026-10-19. CMIT is now linked to its official competition site. 圆点设计奖 uses a clearly labeled 2023 announcement repost as background, with its independent official site still unverified. Details and asset sources are in competition-sources.md. Personal award outcomes remain as supplied.
 
 ## Individually selected evidence
 
@@ -15,3 +15,9 @@ Updated 2026-10-16. Personal records are transcribed from the user's supplementa
 - Patent: the complete supplied 24-page PDF is copied unchanged. The first page identifies application 202411897527.9 and publication CN 122289430 A, with Hu Xinyang fourth of four inventors. Status is application publication. The English title is a translation of the Chinese title, not an independently issued official title.
 
 All marks and certificates retain their respective owners' rights. No endorsement is implied.
+
+## User-supplied photographs · 2026-10-19
+
+Seven original JPEGs are copied byte for byte, with original filenames and SHA-256 hashes in content/evidence.json. Photo records use sourcePage=null and pdf=null; they are never presented as PDF extracts. The three ICHEC photos are attached to the existing CHINESECHI academic entry. The three ICME / AIART photos accompany, rather than replace, the individual AIART exhibition certificate. The BJJ medal is attached to Hobbies & Skills; its caption states that the medal does not print the participant's name. Faces in the session photograph are not identified.
+
+The AIART exhibition banner states the 5–8 July 2026 gallery dates and the ICME / AIART hosts, distinct from the main ICME conference's 5–9 July dates. Conference rankings do not establish a separate ranking for the gallery. Event context: [AIART 2026](https://aiart2026.github.io/) and [ICHEC 2025](https://ichec.icachi.org/25/).

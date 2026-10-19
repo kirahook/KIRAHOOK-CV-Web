@@ -29,3 +29,7 @@ Eleven more user-supplied JPEGs are retained byte for byte, with SHA-256 provena
 The museum certificate names 胡鑫洋 and the exhibited work 《宇宙之声：基于黑洞知识科普交互设计》 for “筑梦星球 创耀寰宇”, dated September 2026. This replaces the previously pending work name, while preserving the exhibition entry. It is an exhibition certificate, not a competition award.
 
 The CSCWD stage photograph dates the conference 13–15 May 2026 and names Fuyao University, CSCWD International Working Group and IEEE SMC Society. The keynote photograph's projected title and speaker credit describe that session; no attendee identity is inferred. Cumulus photographs are attached as requested; the displayed paper title agrees with the existing academic record, but they do not establish a complete author order or DOI. The seventh Art and Science entry remains a paper placeholder at the user's explicit request.
+
+## Profile image correction · 2026-10-19
+
+The user-supplied portrait `08bd996ea0bfdcff1cbb0fb703fd1918.jpg` is copied unchanged to `evidence/hu-xinyang-portrait.jpg` (SHA-256 `f9dd2131ea6d943d238141247af891be96eb05ff005459cf33f38adfc8872b4d`). HU XINYANG renders it in grayscale through CSS; the source pixels and full framing are preserved. CONTACT temporarily has no preview image at the user's request. The museum's existing official identity is restored above the separately retained, zoomable exhibition certificate.

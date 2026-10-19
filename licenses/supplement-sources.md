@@ -21,3 +21,11 @@ All marks and certificates retain their respective owners' rights. No endorsemen
 Seven original JPEGs are copied byte for byte, with original filenames and SHA-256 hashes in content/evidence.json. Photo records use sourcePage=null and pdf=null; they are never presented as PDF extracts. The three ICHEC photos are attached to the existing CHINESECHI academic entry. The three ICME / AIART photos accompany, rather than replace, the individual AIART exhibition certificate. The BJJ medal is attached to Hobbies & Skills; its caption states that the medal does not print the participant's name. Faces in the session photograph are not identified.
 
 The AIART exhibition banner states the 5–8 July 2026 gallery dates and the ICME / AIART hosts, distinct from the main ICME conference's 5–9 July dates. Conference rankings do not establish a separate ranking for the gallery. Event context: [AIART 2026](https://aiart2026.github.io/) and [ICHEC 2025](https://ichec.icachi.org/25/).
+
+## Additional academic and exhibition images · 2026-10-19
+
+Eleven more user-supplied JPEGs are retained byte for byte, with SHA-256 provenance in content/evidence.json: four CSCWD 2026 venue/session images, five Cumulus Athens 2026 session/presentation images, the seventh Art and Science event poster, and an individually addressed China Science and Technology Museum exhibition certificate photograph. All are on-demand assets, not new shell precache requirements.
+
+The museum certificate names 胡鑫洋 and the exhibited work 《宇宙之声：基于黑洞知识科普交互设计》 for “筑梦星球 创耀寰宇”, dated September 2026. This replaces the previously pending work name, while preserving the exhibition entry. It is an exhibition certificate, not a competition award.
+
+The CSCWD stage photograph dates the conference 13–15 May 2026 and names Fuyao University, CSCWD International Working Group and IEEE SMC Society. The keynote photograph's projected title and speaker credit describe that session; no attendee identity is inferred. Cumulus photographs are attached as requested; the displayed paper title agrees with the existing academic record, but they do not establish a complete author order or DOI. The seventh Art and Science entry remains a paper placeholder at the user's explicit request.

@@ -1,10 +1,10 @@
 {
-  "version": "ac328829c1a7fa73",
-  "bytes": 163229504,
+  "version": "312409b8b6d9be54",
+  "bytes": 163313083,
   "coreFiles": [
     "assets/archive-cassette.dda42b9b3b471d11.glb",
-    "assets/index-Bl4kVeyd.css",
-    "assets/index-BznPOg6P.js",
+    "assets/index-D2r4nEdE.js",
+    "assets/index-d2f2EIqc.css",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",
     "favicon.svg",
     "fonts/misans-webfont-4.3.1/bold/0.woff2",
@@ -53,7 +53,7 @@
     "manifest.webmanifest",
     "portfolio/page-03.jpg"
   ],
-  "coreBytes": 9755787,
+  "coreBytes": 9756012,
   "files": [
     "archives/RHINE-LAB-X-001.txt",
     "archives/RHINE-LAB-X-002.txt",
@@ -80,8 +80,8 @@
     "assets/archive-assembly.d411170676f55a32.glb",
     "assets/archive-cassette.dda42b9b3b471d11.glb",
     "assets/boot-lettering-notice.txt",
-    "assets/index-Bl4kVeyd.css",
-    "assets/index-BznPOg6P.js",
+    "assets/index-D2r4nEdE.js",
+    "assets/index-d2f2EIqc.css",
     "assets/pdf-CfhDiWmk.js",
     "assets/pdf.worker-sdBKBKVr.js",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",
@@ -150,6 +150,7 @@
     "evidence/cumulus-2026-research-context.jpg",
     "evidence/cumulus-2026-session.jpg",
     "evidence/cumulus-2026-workshop.jpg",
+    "evidence/hu-xinyang-portrait.jpg",
     "evidence/ichec-2025-badge.jpg",
     "evidence/ichec-2025-poster-session.jpg",
     "evidence/ichec-2025-poster.jpg",

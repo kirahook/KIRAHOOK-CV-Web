@@ -18,6 +18,8 @@ All marks and certificates retain their respective owners' rights. No endorsemen
 
 ## User-supplied photographs · 2026-10-19
 
+HU XINYANG profile portrait (2026-10-20): user-supplied `08bd996ea0bfdcff1cbb0fb703fd1918.jpg`, copied unchanged to `evidence/hu-xinyang-portrait.jpg` (SHA-256 `f9dd2131ea6d943d238141247af891be96eb05ff005459cf33f38adfc8872b4d`). The profile preview applies CSS grayscale while retaining the original source and existing image frame dimensions.
+
 Seven original JPEGs are copied byte for byte, with original filenames and SHA-256 hashes in content/evidence.json. Photo records use sourcePage=null and pdf=null; they are never presented as PDF extracts. The three ICHEC photos are attached to the existing CHINESECHI academic entry. The three ICME / AIART photos accompany, rather than replace, the individual AIART exhibition certificate. The BJJ medal is attached to Hobbies & Skills; its caption states that the medal does not print the participant's name. Faces in the session photograph are not identified.
 
 The AIART exhibition banner states the 5–8 July 2026 gallery dates and the ICME / AIART hosts, distinct from the main ICME conference's 5–9 July dates. Conference rankings do not establish a separate ranking for the gallery. Event context: [AIART 2026](https://aiart2026.github.io/) and [ICHEC 2025](https://ichec.icachi.org/25/).

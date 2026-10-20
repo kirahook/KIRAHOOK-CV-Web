@@ -8,6 +8,12 @@ Updated 2026-10-16. Personal records are transcribed from the user's supplementa
 - CCAC: existing official CCF identity and organizer source are reused; the new competition record is separate from the existing exhibition record.
 - Design Values Award: the user confirmed Design Society × V&A; official identity and rules were added on 2026-10-19. CMIT is now linked to its official competition site. 圆点设计奖 uses a clearly labeled 2023 announcement repost as background, with its independent official site still unverified. Details and asset sources are in competition-sources.md. Personal award outcomes remain as supplied.
 
+## Contact and catalogue previews · 2026-10-20
+
+CONTACT uses unmodified official identity assets linked to the user's existing contact addresses: [QQ Mail](https://mail.qq.com/) ([96px icon](https://res.wx.qq.com/t/webmail/webmail/res/images/qqmail_favicon_96h.8d124a7.png)), [ORCID brand guidance](https://info.orcid.org/brand-guidelines/) ([iD icon](https://info.orcid.org/wp-content/uploads/2020/01/orcid-logo-52-px.png)), [GitHub](https://github.com/logos) ([icon](https://github.githubassets.com/favicons/favicon.svg)), and [Google brand guidance](https://developers.google.com/identity/branding-guidelines) ([G logo](https://developers.google.com/static/identity/images/g-logo.png)). These identify external contact services; their owners retain their trademarks.
+
+The user supplied the two catalogue preview PNGs: image 5 (black-and-white gradient) for 交叉设计 and image 6 (clouds and utility pole) for 学术产出. Both files are copied unchanged; their use is decorative and does not change the original portfolio page mapping or academic records.
+
 ## Individually selected evidence
 
 - NCDA: the two supplied one-page certificates are retained unchanged as PDFs and rendered as JPEGs. Both are 2026 Beijing regional / provincial first prizes, graduate group. Their certificate IDs are stored in content/evidence.json. Only the restaurant work is linked to project X-005.

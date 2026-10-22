@@ -14,6 +14,16 @@ CONTACT uses unmodified official identity assets linked to the user's existing c
 
 The user supplied the two catalogue preview PNGs: image 5 (black-and-white gradient) for 交叉设计 and image 6 (clouds and utility pole) for 学术产出. Both files are copied unchanged; their use is decorative and does not change the original portfolio page mapping or academic records.
 
+## HCII, CMIT and Huayun evidence · 2026-10-22
+
+Nine additional JPEGs are copied unchanged and hashed in `content/evidence.json`. The HCII 2025 gallery contains the user-assigned conference activity and Gothenburg transit photos plus a Whova attendance badge naming Xinyang Hu, 22–27 June 2025. The badge establishes attendance, not paper acceptance or an award; scene captions identify no individuals.
+
+The two CMIT certificates name 《火星语义环境下的物流与情绪反馈》, Hu Xinyang / Xiong Ruilin / Xie Weipeng, Tsinghua University, 2024: Beijing regional second prize and national final third prize. Both supplied certificates print number `2024877513`; each retains its distinct source-file hash.
+
+Four Huayun 2025 certificates cover 《观·自在·未来》 (national first prize, digital media), Elder-care box (national first prize, industrial design), and 《艺术疗愈·一颗水滴的旅程》 (national gold and Best Art Healing Award, digital moving image). The individual certificate numbers, award categories and August 2025 date are recorded alongside each original image.
+
+CMIT's unchanged official footer identity is sourced from [the official website](https://www.cmit.cn/) ([logo asset](https://static.cmit.cn/statics2026/images/logo1.png)). Its white lettering is displayed on a dark contrast surface at a larger height; it is an event identity, not an award certificate.
+
 ## Individually selected evidence
 
 - NCDA: the two supplied one-page certificates are retained unchanged as PDFs and rendered as JPEGs. Both are 2026 Beijing regional / provincial first prizes, graduate group. Their certificate IDs are stored in content/evidence.json. Only the restaurant work is linked to project X-005.

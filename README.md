@@ -4,4 +4,4 @@ Public website: https://kirahook.github.io/KIRAHOOK-CV-Web/
 
 Compiled website and user-authorized portfolio assets. Source is maintained in the private KIRAHOOK-CV repository.
 
-Build: 886f6e95493efa41
+Build: 8e89331f63299f04

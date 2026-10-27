@@ -1,10 +1,10 @@
 {
-  "version": "8e89331f63299f04",
-  "bytes": 166409367,
+  "version": "7cee7404f7dde06a",
+  "bytes": 166447916,
   "coreFiles": [
     "assets/archive-cassette.dda42b9b3b471d11.glb",
-    "assets/index-CwvvF6zH.css",
-    "assets/index-HUuji9Rq.js",
+    "assets/index-CmIbycS2.js",
+    "assets/index-CnV9Rvok.css",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",
     "favicon.svg",
     "fonts/misans-webfont-4.3.1/bold/0.woff2",
@@ -53,7 +53,7 @@
     "manifest.webmanifest",
     "portfolio/page-03.jpg"
   ],
-  "coreBytes": 9764051,
+  "coreBytes": 9768748,
   "files": [
     "archives/RHINE-LAB-X-001.txt",
     "archives/RHINE-LAB-X-002.txt",
@@ -80,8 +80,8 @@
     "assets/archive-assembly.d411170676f55a32.glb",
     "assets/archive-cassette.dda42b9b3b471d11.glb",
     "assets/boot-lettering-notice.txt",
-    "assets/index-CwvvF6zH.css",
-    "assets/index-HUuji9Rq.js",
+    "assets/index-CmIbycS2.js",
+    "assets/index-CnV9Rvok.css",
     "assets/pdf-CfhDiWmk.js",
     "assets/pdf.worker-sdBKBKVr.js",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",
@@ -127,6 +127,7 @@
     "brands/qqmail.png",
     "brands/red-dot-symbol.png",
     "brands/siggraph-2026.png",
+    "brands/tencent-music.png",
     "brands/tsinghua-emblem.png",
     "brands/ux-design-awards.svg",
     "brands/vinci-symbol.svg",

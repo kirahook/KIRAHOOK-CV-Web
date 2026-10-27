@@ -43,3 +43,5 @@ The competitions view now separates AI HACKATHON, international competitions, an
 - The unchanged Tencent Music PNG is extracted from the official finalists page’s embedded `tme-logo` image and displayed on a dark surface. Rights remain with Tencent Music Entertainment Group.
 - QoderWork: the original CV result 入围创意奖 is retained, alongside the existing [Tianchi event](https://tianchi.aliyun.com/competition/entrance/532492), [QoderWork](https://qoder.com/qoderwork), and a clearly labeled [Aliyun community introduction](https://developer.aliyun.com/article/1741102). No personal work title or independently verified winner listing has been invented.
 - Structured verification and source checksum are recorded in `content/hackathon-sources.json`. Only the user’s selected work and publicly listed team members are transcribed; other finalists are not copied into the CV.
+
+- 2026-10-27：腾讯音乐条目展示图改为用户提供的 Build With AI 赛事海报（`brands/tencent-music-hackathon-poster.png`），保留原始 PNG 字节及完整构图；替换原主办方标识展示。

@@ -45,3 +45,7 @@ The competitions view now separates AI HACKATHON, international competitions, an
 - Structured verification and source checksum are recorded in `content/hackathon-sources.json`. Only the user’s selected work and publicly listed team members are transcribed; other finalists are not copied into the CV.
 
 - 2026-10-27：腾讯音乐条目展示图改为用户提供的 Build With AI 赛事海报（`brands/tencent-music-hackathon-poster.png`），保留原始 PNG 字节及完整构图；替换原主办方标识展示。
+
+## Game track · 2026-11-04
+
+- Tsinghua University School of Architecture × miHoYo Digital Interactive Environment Design Competition. [Launch notice from the School of Architecture’s WeChat account, as reposted by Time+Architecture](https://www.sohu.com/a/1079866636_121124716). The [announcement artwork](https://q7.itc.cn/q_70/images03/20260923/5b456484a6e741739059537721332968.jpeg) is stored byte-for-byte as `brands/tsinghua-mihoyo-die-2026.jpg`; the sidebar previews its cover. The announcement supplies the organizers, competition scope, jury, planned schedule and award categories. Personal status 入围决赛 is user-provided; a public finalist list and the work title were unavailable during verification. The announcement calls the post-preliminary stage 复赛.

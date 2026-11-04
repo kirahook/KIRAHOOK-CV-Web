@@ -1,10 +1,10 @@
 {
-  "version": "f4358d2283b78d02",
-  "bytes": 168851633,
+  "version": "fa503cbe2d893dc7",
+  "bytes": 169579832,
   "coreFiles": [
     "assets/archive-cassette.dda42b9b3b471d11.glb",
-    "assets/index-CRvRvjbR.js",
-    "assets/index-H0rUOwB3.css",
+    "assets/index-CQSO9HMh.js",
+    "assets/index-CdgPFgyM.css",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",
     "favicon.svg",
     "fonts/misans-webfont-4.3.1/bold/0.woff2",
@@ -53,7 +53,7 @@
     "manifest.webmanifest",
     "portfolio/page-03.jpg"
   ],
-  "coreBytes": 9776766,
+  "coreBytes": 9779462,
   "files": [
     "archives/RHINE-LAB-X-001.txt",
     "archives/RHINE-LAB-X-002.txt",
@@ -80,8 +80,8 @@
     "assets/archive-assembly.d411170676f55a32.glb",
     "assets/archive-cassette.dda42b9b3b471d11.glb",
     "assets/boot-lettering-notice.txt",
-    "assets/index-CRvRvjbR.js",
-    "assets/index-H0rUOwB3.css",
+    "assets/index-CQSO9HMh.js",
+    "assets/index-CdgPFgyM.css",
     "assets/pdf-CfhDiWmk.js",
     "assets/pdf.worker-sdBKBKVr.js",
     "assets/portfolio-atlas.f52bd8ef8508a6be.png",
@@ -135,6 +135,7 @@
     "brands/tencent-music-hackathon-poster.png",
     "brands/tencent-music.png",
     "brands/tsinghua-emblem.png",
+    "brands/tsinghua-mihoyo-die-2026.jpg",
     "brands/ux-design-awards.svg",
     "brands/vinci-symbol.svg",
     "brands/x-lab.svg",
